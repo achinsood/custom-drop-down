@@ -1,3 +1,2 @@
-# Best-Jquery-Carousel
-
-Best Jquery Carousel
+# Custom Drop Downs
+Custom Drop Downs
